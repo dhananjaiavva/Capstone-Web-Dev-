@@ -19,17 +19,11 @@ Animated text + call-to-action button
 
 4 responsive destination cards
 
-Images + descriptions
-
 🔹 Tour Packages
 
 Well-designed package cards
 
 Prices, duration & booking button
-
-🔹 How It Works
-
-Step-by-step explanation with animations
 
 🔹 Testimonials
 
@@ -78,41 +72,3 @@ Clean color scheme
 Fully responsive for mobile, tablet, and desktop
 
 Custom CSS animations (fade-in, pop-in, count-up)
-
-📱 Responsive Navigation
-
-Includes a mobile-friendly hamburger menu powered by a checkbox toggle — no JavaScript required.
-
-🚀 How to Use / Run
-
-Download the project folder
-
-Make sure capstone.css is in the same directory as capstone.html
-
-Open capstone.html in any browser (Chrome, Edge, Firefox, etc.)
-
-Everything will render automatically — no backend needed
-
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-Google Fonts
-
-Responsive Design
-
-CSS Grid & Flexbox
-
-
-📸 Screenshots (Optional)
-
-You can add screenshots like:
-![Hero Section](screenshots/hero.png)
-![Destinations](screenshots/destinations.png)
-
-
-📸 Screenshots (Optional)
-
-You can add screenshots like:
